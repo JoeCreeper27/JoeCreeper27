@@ -1,6 +1,8 @@
+## Hello
+
 - 👋 Hi, I’m @JoeCreeper27
 - 👀 I’m interested in android app development, web app development, web front-end and UI/UX design.
-
+- 🌱 I’m currently learning android app development base on kotlin.
 
 
 ## Skill
