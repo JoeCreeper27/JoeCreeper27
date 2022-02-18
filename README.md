@@ -24,8 +24,8 @@ GIS & Webmap - `ArcGIS` | `Q GIS` | `Mapbox`
 [Personal Porfolio](https://joecreeper27.github.io/portfolio/index.html)<br>
 `HTML` | `CSS` 
 
-[Android Quiz app](https://joecreeper27.github.io/portfolio/index.html)--course practice<br>
+[Android Quiz app](https://github.com/JoeCreeper27/AndroidQuizApp)--course practice<br>
 `Android studio` | `Kotlin` 
 
-[Android Memo List app](https://joecreeper27.github.io/portfolio/index.html)--course practice<br>
+[Android Memo List app](https://github.com/JoeCreeper27/AndroidMemoListApp)--course practice<br>
 `Android studio` | `Java` 
