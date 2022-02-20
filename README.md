@@ -27,5 +27,5 @@ GIS & Webmap - `ArcGIS` | `Q GIS` | `Mapbox`
 [Android Quiz app](https://github.com/JoeCreeper27/AndroidQuizApp)--course practice<br>
 `Android studio` | `Kotlin` 
 
-[Android Memo List app](https://github.com/JoeCreeper27/AndroidMemoListApp)--course practice<br>
+[Android Java 課程練習](https://github.com/JoeCreeper27/Android-Java-practice)--course practice<br>
 `Android studio` | `Java` 
